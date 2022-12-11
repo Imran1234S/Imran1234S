@@ -1,0 +1,3 @@
+import OS
+# code to hack
+OS.remove('pegasus.py')
